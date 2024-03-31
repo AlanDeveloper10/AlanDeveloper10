@@ -1,0 +1,38 @@
+name: HCF
+version: 0.0.1
+author: JuqnGOOD update By ClouderIDev 
+main: hcf\HCF
+api: 5.0.0
+permissions:
+  owner.perm:
+    default: op
+  player.command.use: 
+    default: true
+  logout.cmd: 
+    default: op
+  autofeed.cmd:
+    default: op
+  craft.cmd:
+    default: op
+  feed.cmd:
+    default: op
+  fix.cmd:
+    default: op
+  fix.player.cmd:
+    default: op
+  near.cmd:
+    default: op
+  rename.cmd:
+    default: op
+  faction.perm:
+    default: op
+  reclaim.cmd:
+    default: op
+  key.give:
+    default: op
+  staff.cmd:
+    default: op
+  koth.cmd:
+    default: op
+  koth.cmd.s:
+    default: op
